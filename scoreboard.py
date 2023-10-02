@@ -35,3 +35,6 @@ class Scoreboard(Turtle):
         self.score += 1
         self.update_scoreboard()
 
+
+# just for the green
+
